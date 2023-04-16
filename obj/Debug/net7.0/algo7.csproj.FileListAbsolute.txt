@@ -1,0 +1,15 @@
+/Users/nick/Project/C#/Algorithm/algo7/bin/Debug/net7.0/algo7
+/Users/nick/Project/C#/Algorithm/algo7/bin/Debug/net7.0/algo7.deps.json
+/Users/nick/Project/C#/Algorithm/algo7/bin/Debug/net7.0/algo7.runtimeconfig.json
+/Users/nick/Project/C#/Algorithm/algo7/bin/Debug/net7.0/algo7.dll
+/Users/nick/Project/C#/Algorithm/algo7/bin/Debug/net7.0/algo7.pdb
+/Users/nick/Project/C#/Algorithm/algo7/obj/Debug/net7.0/algo7.csproj.AssemblyReference.cache
+/Users/nick/Project/C#/Algorithm/algo7/obj/Debug/net7.0/algo7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nick/Project/C#/Algorithm/algo7/obj/Debug/net7.0/algo7.AssemblyInfoInputs.cache
+/Users/nick/Project/C#/Algorithm/algo7/obj/Debug/net7.0/algo7.AssemblyInfo.cs
+/Users/nick/Project/C#/Algorithm/algo7/obj/Debug/net7.0/algo7.csproj.CoreCompileInputs.cache
+/Users/nick/Project/C#/Algorithm/algo7/obj/Debug/net7.0/algo7.dll
+/Users/nick/Project/C#/Algorithm/algo7/obj/Debug/net7.0/refint/algo7.dll
+/Users/nick/Project/C#/Algorithm/algo7/obj/Debug/net7.0/algo7.pdb
+/Users/nick/Project/C#/Algorithm/algo7/obj/Debug/net7.0/algo7.genruntimeconfig.cache
+/Users/nick/Project/C#/Algorithm/algo7/obj/Debug/net7.0/ref/algo7.dll
